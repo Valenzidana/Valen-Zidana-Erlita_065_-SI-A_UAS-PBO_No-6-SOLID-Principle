@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Lingkaran", "Lingkaran\Lingkaran.pyproj", "{83D1E875-E727-4DC0-915B-69EFADEF49FD}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Persegi", "Persegi\Persegi.pyproj", "{EE074A04-3D1C-40A2-AC4C-CD033141F9A4}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Kalkulasi", "Kalkulasi\Kalkulasi.pyproj", "{BCA9706D-5970-4DF9-98D7-DDA8FB27002E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{83D1E875-E727-4DC0-915B-69EFADEF49FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83D1E875-E727-4DC0-915B-69EFADEF49FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE074A04-3D1C-40A2-AC4C-CD033141F9A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE074A04-3D1C-40A2-AC4C-CD033141F9A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCA9706D-5970-4DF9-98D7-DDA8FB27002E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCA9706D-5970-4DF9-98D7-DDA8FB27002E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6754E647-CBF4-4F3D-825F-07A6A71B2AD0}
+	EndGlobalSection
+EndGlobal
